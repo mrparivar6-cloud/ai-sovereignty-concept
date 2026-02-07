@@ -34,3 +34,13 @@ Concept Registry (v0.1)
 
 ## Timestamp
 Publicly registered via GitHub commit history.
+---
+
+## Related Concept Registries
+
+- **Guardian Concept Registry**  
+  https://github.com/mrparivar6-cloud/guardian-concept
+
+- **AI Agent Registry**  
+  https://github.com/ai-agent-registry/ai-agent-registry
+
