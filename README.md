@@ -44,3 +44,11 @@ Publicly registered via GitHub commit history.
 - **AI Agent Registry**  
   https://github.com/ai-agent-registry/ai-agent-registry
 
+## Public Definition & Authority Anchor
+
+The public conceptual definition of **AI Sovereignty** is anchored here:
+
+- Medium: https://medium.com/@mrparivar6/ai-sovereignty-must-be-defined-before-it-is-implemented-1e54f20b1ac8
+
+This repository serves as the minimal public concept registry.
+
